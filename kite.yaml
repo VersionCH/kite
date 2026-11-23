@@ -1,0 +1,38 @@
+site:
+  title: YUNXI
+  author: YUNXI
+  baseURL: https://xifyun.me
+  language: zh-CN
+  timezone: Asia/Shanghai
+
+content:
+  store: file
+  dir: content
+
+build:
+  output: public
+
+publish:
+  ping:
+    - https://explore.kite.plus/api/v1/ping
+theme:
+  name: vane
+  settings:
+    accent: '#b4530e'
+    favicon: /uploads/AAA-3.jpg
+    logo: /uploads/AAA.jpg
+    logo_dark: /uploads/AAA-2.jpg
+    share_image: /uploads/屏幕截图 2026-08-30 204431-3.png
+    tagline: YUNXI的站点
+    social:
+      email: 2428505532@qq.com
+      github: https://github.com/VersionCH
+    copyright: © 2026 -2026YUNXI
+plugins:
+  enabled:
+    - comments
+    - analytics
+    - search
+  settings:
+    analytics:
+      count_previews: true
