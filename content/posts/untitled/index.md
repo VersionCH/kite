@@ -6,8 +6,9 @@ status: draft
 created_at: 2026-11-23T15:22:52Z
 categories:
   - 开篇
+pinned: false
 ---
 
 huhuhu
 
-![屏幕截图 2026-02-07 003626](<屏幕截图 2026-02-07 003626-2.png>)
+![a](a-2.png)
