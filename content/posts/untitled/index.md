@@ -2,7 +2,7 @@
 id: 01M84G1EWWSH5557CHS28ERKEP
 title: "huhuhu"
 slug: untitled
-status: draft
+status: published
 created_at: 2026-11-23T15:22:52Z
 categories:
   - 开篇
